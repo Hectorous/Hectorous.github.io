@@ -5,3 +5,9 @@ body
 	background-repeat:no-repeat;
 	margin:auto;
 }
+#leftColumn
+{
+	float:left;
+	width:500px;
+	height:250px;
+}
