@@ -1,5 +1,6 @@
 body
-{	
+{	background-image:url(../image/Purple-Space.jpg);
+	background-size:cover;
 	color:white;
 	margin:auto;
 }
@@ -7,14 +8,8 @@ body
 {
 	width:960px;
 	height:5000px;
-	background-image:url(../image/s_top3.jpg);
-	background-size:cover;
 	margin-right:auto;
 	margin-left:auto;
-    border-color:purple;
-	border-style:solid;
-	border-width:4px
-	
 }
 #header
 {
