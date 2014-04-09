@@ -1,13 +1,12 @@
 body
 {
-	
 	background-size:cover;
 	background-repeat:no-repeat;
 	margin:auto;
 }
 #tractus_info
 {
-	float:left;
+	margin-left:70px
 	width:800px;
 	height:250px;
 }
