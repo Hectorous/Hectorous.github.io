@@ -1,8 +1,7 @@
 body
-{	
-	background-image:url(../image/s_top3.jpg);
+{	background-image:url(../image/Purple-Space.jpg);
 	background-size:cover;
-	color:white;5
+	color:white;
 	margin:auto;
 }
 #wrapper
@@ -11,9 +10,6 @@ body
 	height:5000px;
 	margin-right:auto;
 	margin-left:auto;
-    border-color:purple;
-	border-style:solid;
-	border-width:4px
 }
 #header
 {
